@@ -1,0 +1,15 @@
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\bin\Debug\net6.0-windows\testkeylogger.exe
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\bin\Debug\net6.0-windows\testkeylogger.deps.json
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\bin\Debug\net6.0-windows\testkeylogger.runtimeconfig.json
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\bin\Debug\net6.0-windows\testkeylogger.dll
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\bin\Debug\net6.0-windows\testkeylogger.pdb
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.csproj.AssemblyReference.cache
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.AssemblyInfoInputs.cache
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.AssemblyInfo.cs
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.csproj.CoreCompileInputs.cache
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.dll
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\refint\testkeylogger.dll
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.pdb
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\testkeylogger.genruntimeconfig.cache
+C:\Users\alyje\OneDrive\Pictures\Documents\C#\testkeylogger\obj\Debug\net6.0-windows\ref\testkeylogger.dll
