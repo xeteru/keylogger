@@ -1,2 +1,2 @@
 # keylogger
-simple keylogger using getasyncstate
+simple keylogger using getasynckeystate
