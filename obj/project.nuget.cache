@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzmy1ymL7zRgLYwtmNgfclxEYd7kJ+VAeOaiTuTIMiRaiJCEPiyPjgNeZvMlD6MEzwypE5fZZip9Gg6XJ+9PHQ==",
+  "dgSpecHash": "efRHjBbrHGcn+oF5SkNO7O34xFJqZ222Kz45WJrog/KtN1e2gm9KVjXwCu2bt7IeAWnus0NQPwq/zIMKuONFlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alyje\\OneDrive\\Pictures\\Documents\\C#\\testkeylogger\\testkeylogger.csproj",
+  "projectFilePath": "C:\\Users\\alyje\\OneDrive\\Pictures\\Documents\\C#\\keylogger\\keylogger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
